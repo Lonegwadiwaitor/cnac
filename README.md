@@ -10,7 +10,7 @@ I offered to help counter their cheating problem, I was offered pay to create an
 
 [Ventz](https://steamcommunity.com/id/ventz1/) later used every excuse under the sun to get rid of me and to avoid paying me, included but not limited to [libellous pedophilia claims](https://i.imgur.com/pWGngSS.png) (based on his [own personal trauma](https://i.imgur.com/WcbSZuM.png)), and bug abuse claims.  
 
-He then later resulted to [threatening legal action](https://i.imgur.com/h5X8naI.png).  
+He also resulted to [threatening legal action](https://i.imgur.com/h5X8naI.png).  
 
 In the end, I issued an ultimatum; pay me or i'll open source it, and well, here we are.
 
