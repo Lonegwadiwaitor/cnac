@@ -12,6 +12,8 @@ I offered to help counter their cheating problem, I was offered pay to create an
 
 He then later resulted to [threatening legal action](https://i.imgur.com/h5X8naI.png).  
 
+In the end, I issued an ultimatum; pay me or i'll open source it, and well, here we are.
+
 ## What does this include?
 An implementation of a well-known method of detecting script execution known as an **environment grab**, and some spicy inner workings of CN server stuff.
 
