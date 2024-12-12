@@ -8,7 +8,7 @@ Let's get something out of the way first of all, I am a (very) old CN player, wi
 
 I offered to help counter their cheating problem, I was offered pay to create an Anti-Cheat solution.  
 
-[Ventz](https://steamcommunity.com/id/ventz1/) later used every excuse under the sun to get rid of me and to avoid paying me, included but not limited to [libellous pedophilia claims](https://i.imgur.com/pWGngSS.png) (based on his [own personal trauma](https://i.imgur.com/og3aaed.png)), and bug abuse claims.  
+[Ventz](https://steamcommunity.com/id/ventz1/) later used every excuse under the sun to get rid of me and to avoid paying me, included but not limited to [libellous pedophilia claims](https://i.imgur.com/pWGngSS.png) (based on his [own personal trauma](https://i.imgur.com/WcbSZuM.png)), and bug abuse claims.  
 
 He then later resulted to [threatening legal action](https://i.imgur.com/h5X8naI.png).  
 
